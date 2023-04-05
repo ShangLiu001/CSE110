@@ -1,18 +1,23 @@
-# Hi! I am Shang
+
+# Hi I am Shang
 ## And here's everything I want you to know 
-### **About my past projects (resume) **
+### About my past projects (resume) 
+
+*Nice to meet you!*
 
 ![Here's a picture of me at the TV station as a guest.](https://idyllic-moxie-4e6cf1.netlify.app/Radiostation.webp)
 
 ***Appstore: An Interactive App Purchase Platform***
 Frontend: Designed a full-stack application for software purchase using React JS. Implemented features for users to upload, search, and browse all kinds of software uploaded. Token-based user authorization was used for registration/login/logout purposes.
 Backend: Launched a microservice in Go to handle register/login/logout/upload/checkout requests. The backend was deployed on Google App Engine. Elasticsearch was used to provide the search function for users and was deployed to Google Compute Engine. Also, Stripe APIs were used to handle user transactions and checking out.
+
 ***Mobile news: An Instagram -like News App***
 Designed an Instagram alike News App based on the Google Component Architectural MVVM pattern.
 Implemented the bottom bar & page navigation using the JetPack navigation component.
 Utilized 3rd party CardStackView (Recycler View) to support swipe gestures for liking/disliking the news.
 Built the Room Database with LiveData & ViewModel to support a local cache and offline model.
 Integrated Retrofit and LiveData to pull the latest news data from a RESTful endpoint (newsapi.org).
+
 ***NFT Price Visualization***
 Built an NFT dashboard that enables searching, viewing, and analyzing NFT assets. NFT relevance like name, description, logo, and prices was obtained from calling Moralis public APIs and then processed using React JS. Historical price was visualized using recharts, and Ant design UI was used for succinctness and clearness.
 
@@ -59,7 +64,7 @@ bfsOfGraph(int V, ArrayList<boolean> adj[])
 
 **You will be directed to [My website created in CSE134B](https://idyllic-moxie-4e6cf1.netlify.app/).**
 
-**This is a section link [link to the first heading "Hi! I am Shang"](# Hi! I am Shang).**
+**This is a section link [link to the top of the page](#hi-i-am-shang).**
 
 **Link to other files: [link to another .md file](./anotherfiletobedirected.md).**
 
